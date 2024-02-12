@@ -1,0 +1,21 @@
+#div1{
+    background-color: aqua;
+    height:300px;
+}
+
+#div2{
+    background-color:palevioletred;
+    height:300px;;
+}
+
+#div3{
+    background-color:blue;
+    height:300px;
+}
+
+#top{
+    background-color:violet;
+    height:100px;
+    position:fixed;
+    width:100%;
+}
